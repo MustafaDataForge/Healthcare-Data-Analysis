@@ -42,3 +42,27 @@ Data Science Student | Aspiring Data Scientist
 
 ## 🚀 Project Status
 Completed
+
+
+## Project Visualizations
+
+### 1. Patients by Medical Condition
+![Patients by Medical Condition](images/Figure_1.png)
+
+### 2. Patient Age Distribution
+![Patient Age Distribution](images/Figure_2.png)
+
+### 3. Average Billing by Medical Condition
+![Average Billing by Medical Condition](images/Figure_3.png)
+
+### 4. Patients by Age Group
+![Patients by Age Group](images/Figure_4.png)
+
+### 5. Billing Amount Outlier Detection
+![Billing Amount Outlier Detection](images/Figure_5.png)
+
+### 6. Average Hospital Stay by Medical Condition
+![Average Hospital Stay](images/Figure_6.png)
+
+### 7. Correlation Heatmap
+![Correlation Heatmap](images/Figure_7.png)
